@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syed Ragib Israq</h1>
 <h3 align="center">A passionate React developer</h3>
-<img align="right" alt="Coding" width="400" src="68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f6d656469612f33323039383461396361353862336337333237346339323539656366366465382e676966">
+<img align="right" alt="Coding" width="400" src="[68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f6d656469612f33323039383461396361353862336337333237346339323539656366366465382e676966](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e470oj6ydwfvwjn2revhwtem85wmkxj7jxl2huay3xc&rid=200.webp&ct=g)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=israq&label=Profile%20views&color=0e75b6&style=flat" alt="israq" /> </p>
 
