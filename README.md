@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=israq&label=Profile%20views&color=0e75b6&style=flat" alt="israq" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-i7tl.onrender.com/](https://portfolio-i7tl.onrender.com/)
+- 👨‍💻 All of my projects are available at [https://portfolio-i7tl.onrender.com/](https://israq-portfolio.onrender.com/)
 
 - 💬 Ask me about **React, Javascript, Back-end, Deployment**
 
